@@ -21,7 +21,7 @@ The app emphasizes clean, scalable development practices, including state manage
 <table>
   <tr>
     <td>
-      <img width="250" src="https://github.com/user-attachments/assets/c766b340-04ab-4de6-8f38-0d0c1dbbf501" />
+      <img width="250" src="https://github.com/user-attachments/assets/ab57e2a6-c2f2-4de2-a3ee-80ea82d832d5" />
     </td>
     <td><img width="250" src="https://github.com/user-attachments/assets/417bed47-e415-447d-9f2c-90c295a4e149" /></td>
     <td><img width="250" src="https://github.com/user-attachments/assets/1675122b-6043-44bd-99ad-ed97bf884d92" /></td>
