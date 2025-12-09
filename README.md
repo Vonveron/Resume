@@ -1,6 +1,4 @@
-# Resume
-Parrié Vonverons Resume Of Completed and Ongoing Projects Swift UI iOS Projects
-
+# Parrié Vonverons Resume Of Completed and Ongoing Swift UI / iOS Projects
 
 # Weather App:
 A Basic weather app demo I've followed to establish core fundamentals of Swift.
