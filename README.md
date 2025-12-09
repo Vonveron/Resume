@@ -5,7 +5,8 @@ Resume Of Completed and Ongoing Projects
 # Weather App
 A Basic weather app demo I've followed to establish core fundamentals of Swift.
 
-<img src="https://github.com/user-attachments/assets/31592af3-662f-44d4-8da8-f95631b90235" width="200">
+
+<img width="200" src="https://github.com/user-attachments/assets/84fa22ca-545f-49e1-888e-c0391d7f113c" />
 <img src="https://github.com/user-attachments/assets/8aeecb4a-848d-44b6-a52f-c1075e7b6dc9" width="200">
 <img src="https://github.com/user-attachments/assets/f8032516-005a-4c7d-9063-4a1d1d27fc10" width="200">
 
