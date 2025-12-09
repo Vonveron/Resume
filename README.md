@@ -1,4 +1,4 @@
-# Parrié Vonverons Resume Of Completed and Ongoing Swift UI / iOS Projects
+# Parrié Vonverons Resume Of Ongoing Swift UI / iOS Projects
 
 # About Me
 
