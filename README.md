@@ -23,10 +23,10 @@ The app emphasizes clean, scalable development practices, including state manage
 
 <table>
   <tr>
-    <td><img width="350" height="670" src="https://github.com/user-attachments/assets/b8cab745-9f26-4c79-b467-a6feb2d3eeba" /> </td>
-    <td><img width="350" height="670" src="https://github.com/user-attachments/assets/5e1e5fd8-983f-4b60-95b8-76c89e3e5c6e" /> </td>
-    <td><img width="300" height="670" src="https://github.com/user-attachments/assets/1675122b-6043-44bd-99ad-ed97bf884d92" /> </td>
-    <td><img width="300" height="670" src="https://github.com/user-attachments/assets/d1d806fa-df4a-4508-b3a2-4c990949f914" /> </td>
+    <td><img src="https://github.com/user-attachments/assets/b8cab745-9f26-4c79-b467-a6feb2d3eeba" /> </td>
+    <td><img src="https://github.com/user-attachments/assets/5e1e5fd8-983f-4b60-95b8-76c89e3e5c6e" /> </td>
+    <td><img src="https://github.com/user-attachments/assets/1675122b-6043-44bd-99ad-ed97bf884d92" /> </td>
+    <td><img src="https://github.com/user-attachments/assets/d1d806fa-df4a-4508-b3a2-4c990949f914" /> </td>
   </tr>
 </table>
 
