@@ -17,9 +17,8 @@ The app emphasizes clean, scalable development practices, including state manage
 
 # Swift 15 Challenge 
 
-<p>
 <img width="250" height="670" alt="Screenshot 2025-11-30 at 08 27 26" src="https://github.com/user-attachments/assets/98e16235-41c1-4d84-970c-0d5af7a039a7" />
 <img width="250" height="670" alt="Day 2" src="https://github.com/user-attachments/assets/417bed47-e415-447d-9f2c-90c295a4e149" />
 <img width="250" height="670" alt="6" src="https://github.com/user-attachments/assets/1675122b-6043-44bd-99ad-ed97bf884d92" />
 <img width="250" height="670" alt="7" src="https://github.com/user-attachments/assets/d1d806fa-df4a-4508-b3a2-4c990949f914" />
-</p>
+
