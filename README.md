@@ -19,7 +19,7 @@ This project is a lightweight SwiftUI Weather App designed to demonstrate practi
 
 The app emphasizes clean, scalable development practices, including state management with @State and @Observable, modular code organization, and reusable UI components. This project showcases core competencies essential for modern iOS roles: Swift proficiency, API integration, debugging, performance awareness, and production-ready UI implementation.
 
-# Swift 15 Challenge: Ongoing
+# Swift 15 Challenge: Completed 
 
 <table>
   <tr>
@@ -43,3 +43,4 @@ practical Swift skills through creating functional mini-apps including a to-
 do list, color grid explorer, weather card, stopwatch, habit tracker, and
 random content generator—optimized for modern iOS development
 workflows.
+
