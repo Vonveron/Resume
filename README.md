@@ -2,7 +2,7 @@
 
 # About Me
 
-My name is Parrié Vonveorn. I've been learning and developing apps on the apple ecosystem since 2022. I completed my first Demo App in 2022 using older UIkit arictechture and learned the basics of Swift UI in 2023. Since then I've been steadily growing my skills and have the two following projects as demonstartions of my skills. 
+My name is Parrié Vonveorn. I've been learning and developing apps on the apple ecosystem since 2022. I completed my first Demo App in 2022 using older UIkit arictechture and learned the basics of Swift UI in 2023. Since then I've been steadily growing my skills and have the three following projects as demonstartions of my skills. 
 
 
 # Weather App: Completed
