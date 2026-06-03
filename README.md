@@ -46,4 +46,8 @@ workflows.
 
 # Cafe Industriá: Ongoing
 
+<img width="250"  src="https://github.com/user-attachments/assets/d273cab1-eff0-4f5f-9d62-51f5ddf34755" />
+<img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-03 at 09 36 28" src="https://github.com/user-attachments/assets/60c1dc7c-431d-43c7-a8e2-cc9ba5fc02d5" />
+<img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-03 at 09 36 34" src="https://github.com/user-attachments/assets/cbccc4bf-c401-4965-be53-703ae669051d" />
 
+I am currently putting the finishing touches on a Cafe App. Key features include Menu placment, a dynamic profile system with points accumaltion. Reservation of moments within differnet locations in a city alongside with reservation for private events. 
