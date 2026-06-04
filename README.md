@@ -46,7 +46,7 @@ workflows.
 
 # Cafe Industriá: Ongoing
 
-<img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-03 at 09 36 28" src="https://github.com/user-attachments/assets/60c1dc7c-431d-43c7-a8e2-cc9ba5fc02d5" />
+<img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-04 at 18 22 02" src="https://github.com/user-attachments/assets/1cdea2c9-1af5-44c1-abb8-b5a430cd28f0" />
 <img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-03 at 09 36 34" src="https://github.com/user-attachments/assets/cbccc4bf-c401-4965-be53-703ae669051d" />
 <img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-03 at 09 36 52" src="https://github.com/user-attachments/assets/c9576d77-4159-404e-9f39-48db837c6964" />
 
