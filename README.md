@@ -51,4 +51,4 @@ workflows.
 <img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-03 at 09 36 52" src="https://github.com/user-attachments/assets/c9576d77-4159-404e-9f39-48db837c6964" />
 
 
-I am currently putting the finishing touches on a Cafe App. Key features include Menu placment, a dynamic profile system with points accumaltion. Reservation of moments within differnet locations in a city alongside with reservation for private events. 
+I am currently putting the finishing touches on a boutique Cafe App. Key features include Menu placment, a dynamic profile system with points accumaltion. Reservation of moments within differnet locations in a city alongside with reservation for private events. 
