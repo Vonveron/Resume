@@ -45,7 +45,7 @@ random content generator—optimized for modern iOS development
 workflows.
 
 # Cafe Industriá: Ongoing
-Video Progress: https://www.icloud.com/iclouddrive/006PCsXmQ8v4VvwwrAFzJbxGg
+Video Link: https://www.icloud.com/iclouddrive/00aKgKmya2gUdgqrYwLUbVK_w
 
 <img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-04 at 18 22 02" src="https://github.com/user-attachments/assets/1cdea2c9-1af5-44c1-abb8-b5a430cd28f0" />
 <img width="250" alt="Simulator Screenshot - iPhone 16e - 2026-06-18 at 12 23 47" src="https://github.com/user-attachments/assets/ce62a9c0-d3a5-4b00-b83b-2ada6b2e4fcd" />
